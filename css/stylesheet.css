@@ -1,0 +1,53 @@
+* {
+ font-family: "baloo", Verdana
+}
+
+html {
+ background-color: rgb(81, 81, 81);
+}
+
+a {
+ text-decoration: none;
+ color: rgb(226, 226, 226);
+}
+
+17_font_text {
+ font-size: 17px;
+}
+
+.keemgnome {
+ height: 200px;
+ width: 200px;
+ border-radius: 10px;
+ border: 5px solid Black;
+}
+
+.top_hello {
+ text-align: center;
+}
+
+.empty_space {
+  height: 600px;
+}
+
+.adnumberone {
+ border: 4px Black solid;
+ height: 150px;
+ margin: auto;
+ text-align: center;
+ vertical-align: center;
+}
+
+.adpicture {
+ height: 150px;
+ width: 1280px;
+}
+
+.bottom {
+  height: 100px;
+}
+
+.copyright_team {
+ text-align: right;
+ font-size: 18px;
+}
